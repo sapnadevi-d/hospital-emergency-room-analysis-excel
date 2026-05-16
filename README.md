@@ -72,6 +72,7 @@ The dataset was provided in CSV format and included:
 - Slicers & Interactive Filtering
 - Sparklines for Trend Analysis
 - Hyperlinks for Drill-Through Navigation
+- Git and Github for version control and Project management
 
 ---
 
@@ -130,7 +131,8 @@ This dashboard helps hospital management:
 
 ---
 
-# Author
+# Author and Contact
 
 Sapna Devi
+
 sapnadevi9991@gmail.com
