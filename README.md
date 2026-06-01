@@ -14,8 +14,8 @@ This project analyzes Emergency Room (ER) operations using Power Query, and Powe
 - [Key Insights](#key-insights)
 - [Recommendations](#recommendations)
 - [Business Impact](#business-impact)
-- [Dashboard Overview](#-dashboard-preview)
-- [Author](#author)
+- [Dashboard Overview](#dashboard-overview)
+- [Author and Contact](#author-and-contact)
 
 ---
 
@@ -130,7 +130,6 @@ This dashboard helps hospital management:
 ![alt text](images/Patient_Satisfaction_Score.png)
 
 ---
-
 # Author and Contact
 
 Sapna Devi
