@@ -14,7 +14,7 @@ This project analyzes Emergency Room (ER) operations using Power Query, and Powe
 - [Key Insights](#key-insights)
 - [Recommendations](#recommendations)
 - [Business Impact](#business-impact)
-- [Dashboard Preview](#dashboard-preview)
+- [# Dashboard Overview](#-dashboard-preview)
 - [Author](#author)
 
 ---
